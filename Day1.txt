@@ -1,0 +1,75 @@
+1)public class Main {
+    public static void main(String[] args) {
+         System.out.print("Hello I am enjoying coding");
+    }
+}
+
+_____________________________________________________________________________
+
+2) public class Main {
+    public static void main(String[] args) {
+         System.out.println("Hello"+'\n'+"I"+'\n'+"am"+'\n'+"enjoying"+'\n'+"coding");
+    }
+}
+
+_________________________________________________________________________________________
+
+3)public class Main {
+    public static void main(String[] args) {
+        int sum=100+10+3;
+        int p=100*10*3;
+         System.out.println("Sum="+sum);
+        System.out.println("Product="+p);
+    }
+}
+_________________________________________________________________________________________
+
+
+4) public class Main {
+    public static void main(String[] args) {
+        int sub=100-40;
+         System.out.println("difference="+sub);
+       
+    }
+}
+
+___________________________________________________________________________________________________
+
+5) public class Main {
+    public static void main(String[] args) {
+        int sub=100-40;
+         System.out.println("*****"+'\n'+"*****"+'\n'+"*****"+'\n'+"*****"+'\n'+"*****"+'\n'+"*****");
+       
+    }
+}
+
+________________________________________________________________________________________________________
+
+6)public class Main {
+    public static void main(String[] args) {
+        int sub=100-40;
+         
+    System.out.println("* *"+'\n'+"* *"+'\n'+"* *"+'\n'+"* *"+'\n'+"* *"+'\n'+"****");
+       
+    }
+}
+___________________________________________________________________________________________________________
+
+7) public class Main {
+    public static void main(String[] args) {
+        int n=987653;
+         System.out.println(n%10);
+       
+    }
+}
+____________________________________________________________________________________________________________
+8)public class Main {
+    public static void main(String[] args) {
+        int m=15;
+        int n=4;
+         System.out.println(m+n);
+         System.out.print(m-n);
+         System.out.print(" "+ m*n);
+       
+    }
+}
